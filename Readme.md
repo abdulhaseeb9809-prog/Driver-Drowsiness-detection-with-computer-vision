@@ -87,22 +87,22 @@ You can use similar datasets:
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 
-🌐 Deployment
+## 🌐 Deployment
 
 This project can be deployed using Streamlit Cloud.
 
 ## ⚠️ Limitations
 
-This version uses only yawning detection
-Does not include eye tracking (EAR)
-Performance depends on image quality
+- This version uses only yawning detection
+- Does not include eye tracking (EAR)
+- Performance depends on image quality
 
 ## 🔮 Future Improvements
 
-👁️ Eye detection using EAR (dlib)
-🎥 Real-time webcam detection
-🧠 Temporal models (LSTM)
-🌙 Night-time detection
+- 👁️ Eye detection using EAR (dlib)
+- 🎥 Real-time webcam detection
+- 🧠 Temporal models (LSTM)
+- 🌙 Night-time detection
 
 ## 👨‍💻 Author
 
